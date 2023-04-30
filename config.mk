@@ -2,7 +2,7 @@
 VERSION = 5.2
 
 # paths
-PREFIX = /usr/local
+PREFIX = /usr
 MANPREFIX = /usr/share/man
 
 X11INC = /usr/include/X11
